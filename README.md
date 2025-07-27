@@ -1,12 +1,12 @@
 # From Outliers to Topics in Language Models: Anticipating Trends in News Corpora
 
-This repository contains visualizations and code accompanying our paper submission to [ICNLSP 2025](https://www.icnlsp.org/2025welcome/). 
+This repository contains the visualizations and code accompanying our paper submission to [ICNLSP 2025](https://www.icnlsp.org/2025welcome/). 
 
 ## Repository Structure
 
 ### `DATA` and `RESULTS`
 
-Raw data and generated emebddings by languege model as well as detailed results are availible upon request.
+This section contains Python scripts for the full experimental setup, organized by paper sections.
 
 ### `CODE`
 This section contains Python scripts for the full experimental setup, organized by section:
@@ -32,4 +32,4 @@ Contains visual representations availiable on the paper:
 - Stylometric analysis plots comparing outlier classes, including statistical significance results.
 
 
-For any further information please contact : evangelia.zve@lip6.fr
+For any further information, please contact: evangelia.zve@lip6.fr
