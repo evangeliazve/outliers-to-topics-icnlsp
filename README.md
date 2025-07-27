@@ -21,17 +21,16 @@ This section contains Python scripts for the full experimental setup, organized 
 
 ---
 
-### `DATA` and `RESULTS`
-
-Raw data and language model-generated embeddings, as well as detailed results, could be sent upon request.
-
----
-
 ### `PLOTS`
 Contains visual representations availiable on the paper:
 - Timeframe scatter plots for TP and GHG datasets.
 - Hypothesis validation bar plots by model.
 - Stylometric analysis plots comparing outlier classes, including statistical significance results.
 
+---
+
+### `DATA` and `RESULTS`
+
+Raw data and language model-generated embeddings, as well as detailed results, could be sent upon request.
 
 For any further information, please contact: evangelia.zve@lip6.fr
