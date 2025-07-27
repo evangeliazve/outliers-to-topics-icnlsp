@@ -6,7 +6,7 @@ This repository contains the visualizations and code accompanying our paper subm
 
 ### `DATA` and `RESULTS`
 
-This section contains Python scripts for the full experimental setup, organized by paper sections.
+Raw data and language model-generated embeddings, as well as detailed results, are available upon request.
 
 ### `CODE`
 This section contains Python scripts for the full experimental setup, organized by section:
