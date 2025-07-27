@@ -4,10 +4,6 @@ This repository contains the visualizations and code accompanying our paper subm
 
 ## Repository Structure
 
-### `DATA` and `RESULTS`
-
-Raw data and language model-generated embeddings, as well as detailed results, are available upon request.
-
 ### `CODE`
 This section contains Python scripts for the full experimental setup, organized by section:
 - **4.2 & 5.2 Embeddings Cumulative Clustering**:
@@ -22,6 +18,12 @@ This section contains Python scripts for the full experimental setup, organized 
   - Subjectivity and neutrality Spearman correlation analysis.
   - Stylometric analysis box plots comparing outlier classes.
   - Statistical significance results (Figures 3 and 6).
+
+---
+
+### `DATA` and `RESULTS`
+
+Raw data and language model-generated embeddings, as well as detailed results, could be sent upon request.
 
 ---
 
