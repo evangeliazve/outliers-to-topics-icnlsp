@@ -1,0 +1,13 @@
+pandas
+numpy
+nltk
+scikit-learn
+scipy
+matplotlib
+seaborn
+textblob
+textblob-fr
+vaderSentiment-fr
+sentence-transformers
+umap-learn
+bertopic
