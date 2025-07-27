@@ -33,4 +33,4 @@ Contains visual representations availiable on the paper:
 
 Raw data and language model-generated embeddings, as well as detailed results, could be sent upon request.
 
-**For any further information, please contact: evangelia.zve@lip6.fr
+**For any further information, please contact: evangelia.zve@lip6.fr**
